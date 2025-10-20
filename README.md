@@ -13,3 +13,6 @@ so this initiative is born. If you would like to contribute, consider making Git
 Can't wait to have a fully functioning kirtan search engine to listen and learn from!
 Jai Ho!
 
+---
+
+This project is in collaboration with Yogic Approach and Insprired by Satyam. Yogaedu.org is the file and project host. 

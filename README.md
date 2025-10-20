@@ -1,5 +1,5 @@
-# kirtans-collection-project
-kirtans collection project
+# kirtan-collection-project
+kirtan collection project
 
 The Satyananda Yoga Bihar Yoga tradition has a great collection of kirtans. I don't know of a single repository that provides
 - search by text or tune

@@ -8,7 +8,7 @@ The Satyananda Yoga Bihar Yoga tradition has a great collection of kirtans. I do
 - karaoke support
 - meaning of the kirtan
 
-so this initiative is born. If you would like to contribute, consider making GitHub account and filing a feature request. More oppotunities for seva on this project will be posted in the coming weeks. 
+... so this initiative is born. If you would like to contribute, consider making a (free) GitHub account and filing a feature request (https://github.com/yogaedu-org/kirtan-collection-project/issues/new). More oppotunities for seva on this project will be posted in the coming weeks. You are also invited to join the [https://tiny.cc/ya-kirtan-collection-proj](Kirtan Collection Project) WhatsApp group to receive project updates, announcements, and relevant notifications. 
 
 Can't wait to have a fully functioning kirtan search engine to listen and learn from!
 Jai Ho!
